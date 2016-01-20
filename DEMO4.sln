@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harkka1", "..\Harkka1\Harkk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harj_1", "..\Harj_1\Harj_1.csproj", "{E638DC68-9838-40E8-A759-4DFA35C48206}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harj5", "..\Harj5\Harj5.csproj", "{3DEAC79C-0A33-4C63-AD95-6C283049F5D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E638DC68-9838-40E8-A759-4DFA35C48206}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E638DC68-9838-40E8-A759-4DFA35C48206}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E638DC68-9838-40E8-A759-4DFA35C48206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEAC79C-0A33-4C63-AD95-6C283049F5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEAC79C-0A33-4C63-AD95-6C283049F5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEAC79C-0A33-4C63-AD95-6C283049F5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEAC79C-0A33-4C63-AD95-6C283049F5D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
