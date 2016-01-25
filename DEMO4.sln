@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harj_1", "..\Harj_1\Harj_1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harj5", "..\Harj5\Harj5.csproj", "{3DEAC79C-0A33-4C63-AD95-6C283049F5D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speakers", "Kirjahylly\Speakers.csproj", "{80427BF0-2776-4C8B-873D-0AE98ED8D9C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3DEAC79C-0A33-4C63-AD95-6C283049F5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DEAC79C-0A33-4C63-AD95-6C283049F5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DEAC79C-0A33-4C63-AD95-6C283049F5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80427BF0-2776-4C8B-873D-0AE98ED8D9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80427BF0-2776-4C8B-873D-0AE98ED8D9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80427BF0-2776-4C8B-873D-0AE98ED8D9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80427BF0-2776-4C8B-873D-0AE98ED8D9C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
